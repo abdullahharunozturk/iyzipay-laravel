@@ -7,6 +7,7 @@
     "iyzico",
     "iyzipay"
   ],
+  "version": "v1.1",
   "homepage": "https://github.com/abdullahharunozturk/iyzipay-laravel",
   "license": "MIT",
   "authors": [
